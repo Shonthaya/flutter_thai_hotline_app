@@ -1,16 +1,14 @@
 # flutter_thai_hotline_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+sub_a
+<img width="272" height="582" alt="sub_a" src="https://github.com/user-attachments/assets/c1c84b9a-70cf-4678-91fe-3d57db13180b" />
+sub_b
+<img width="271" height="585" alt="sub_b" src="https://github.com/user-attachments/assets/8a7a88f3-7ae7-4b92-a199-e768a8fb2582" />
+sub_c
+<img width="266" height="577" alt="sub_c" src="https://github.com/user-attachments/assets/e098a389-428f-4656-88b7-c2ea521ff3d7" />
+sub_d
+<img width="275" height="583" alt="sub_d" src="https://github.com/user-attachments/assets/a6beee38-bf04-4345-a72f-dabda1c09331" />
+about_ui
+<img width="270" height="585" alt="about_ui" src="https://github.com/user-attachments/assets/6d815198-e6bc-4f14-9def-8deb75b8a2d3" />
+splash_screen
+<img width="267" height="582" alt="splash_screen" src="https://github.com/user-attachments/assets/76a9704b-8a2c-47a8-a10d-49e983701971" />
