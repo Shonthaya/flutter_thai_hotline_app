@@ -1,4 +1,3 @@
-// ไฟล์: lib/views/sub_c_home_ui.dart
 import 'package:fflutter_thai_hotline_app/models/hotline_model.dart';
 import 'package:fflutter_thai_hotline_app/views/thai_hotline_detail.dart';
 import 'package:flutter/material.dart';
