@@ -1,4 +1,4 @@
-// 1. สร้าง Class โครงสร้างข้อมูลหลัก
+//สร้าง Class โครงสร้างข้อมูลหลัก
 class Hotline {
   final String name;
   final String phoneDisplay;
@@ -11,7 +11,7 @@ class Hotline {
   });
 }
 
-// 2. ข้อมูลหมวด A: สอบถามข้อมูลการเดินทาง (Sub A)
+// A: สอบถามข้อมูลการเดินทาง
 List<Hotline> travelList = [
   Hotline(name: 'กรมทางหลวงชนบท', phoneDisplay: '1146', imageName: '1146.png'),
   Hotline(name: 'ตำรวจท่องเที่ยว', phoneDisplay: '1155', imageName: '1155.png'),
@@ -28,7 +28,7 @@ List<Hotline> travelList = [
       imageName: '1690.png'),
 ];
 
-// 3. ข้อมูลหมวด B: แจ้งอุบัติเหตุ-เหตุฉุกเฉิน (Sub B)
+//B: แจ้งอุบัติเหตุ-เหตุฉุกเฉิน
 List<Hotline> accidentList = [
   Hotline(name: 'เหตุด่วนเหตุร้าย', phoneDisplay: '191', imageName: '191.png'),
   Hotline(
@@ -47,7 +47,7 @@ List<Hotline> accidentList = [
   Hotline(name: 'เจ็บป่วยฉุกเฉิน', phoneDisplay: '1669', imageName: '1669.png'),
 ];
 
-// 4. ข้อมูลหมวด C: ธนาคาร (Sub C) - คงเดิม=
+// ข้อมูลหมวด C: ธนาคาร
 List<Hotline> bankList = [
   Hotline(name: 'ธนาคารกรุงเทพ', phoneDisplay: '1333', imageName: '1333.png'),
   Hotline(name: 'ธนาคารออมสิน', phoneDisplay: '1115', imageName: '1115.png'),
@@ -93,7 +93,7 @@ List<Hotline> bankList = [
       imageName: '026267777.png'),
 ];
 
-// 5. ข้อมูลหมวด D: สาธารณูปโภค และ เครือข่าย (Sub D)
+// ข้อมูลหมวด D: สาธารณูปโภค และ เครือข่าย
 List<Hotline> utilityList = [
   Hotline(name: 'ไฟฟ้านครหลวง', phoneDisplay: '1130', imageName: '1130.png'),
   Hotline(
